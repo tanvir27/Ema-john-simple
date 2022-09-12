@@ -1,0 +1,21 @@
+
+.order-summery{
+    color: seagreen;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.order-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid lightslategrey;
+    margin-left: 50%;
+    margin-top: 10px;
+}
+.total-price{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:saddlebrown;
+}
